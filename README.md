@@ -1,2 +1,2 @@
 # MemoryGame
-Matching Memory Game
+Matching Memory Game made for Springboard software engineering bootcamp
